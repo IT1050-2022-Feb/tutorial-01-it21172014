@@ -9,7 +9,7 @@ int main() {
   float avg;
   printf("Enter mark 1");
   scanf("%d",&mark1);
-  printf("Enter mark 2")
+  printf("Enter mark 2");
   scanf("%d",&mark2);
   avg=float(mark1+mark2/2);
   printf("Avarage mark is %d",avg);
